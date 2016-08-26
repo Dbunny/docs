@@ -40,4 +40,7 @@ get this to parse md file
 https://www.npmjs.com/package/angular-md
 
 
-this is quite cool
+this is quite cool 
+
+just updated it
+===============
